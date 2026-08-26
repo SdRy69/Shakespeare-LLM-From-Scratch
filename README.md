@@ -25,6 +25,8 @@ The result is not a production chatbot. It is a working Mini-LLM you can train o
 
 Dataset: [Tiny Shakespeare](https://raw.githubusercontent.com/atilsamancioglu/ShakespeareInput/refs/heads/main/input.txt) (~1M characters of plays and verse). The first run downloads it into `data/shakespeare.txt`.
 
+Full product and architecture notes (Turkish, Word): [`Shakespeare_LLM_From_Scratch_Kapsamli_Dokumantasyon.docx`](Shakespeare_LLM_From_Scratch_Kapsamli_Dokumantasyon.docx).
+
 ---
 
 ## Key Features
