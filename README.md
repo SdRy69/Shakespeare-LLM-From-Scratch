@@ -167,7 +167,7 @@ Shakespeare-LLM-From-Scratch/
 **Requirements:** Python 3.10+ recommended. A CUDA GPU is optional; the scripts fall back to CPU.
 
 ```bash
-git clone https://github.com/<your-username>/Shakespeare-LLM-From-Scratch.git
+git clone https://github.com/SdRy69/Shakespeare-LLM-From-Scratch.git
 cd Shakespeare-LLM-From-Scratch
 
 python -m venv .venv
