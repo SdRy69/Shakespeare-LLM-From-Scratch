@@ -6,6 +6,7 @@ No Hugging Face models. No pretrained weights. The architecture, character-level
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-snndry%2FShakespeare--LLM--From--Scratch-181717?logo=github)](https://github.com/snndry/Shakespeare-LLM-From-Scratch)
 [![Architecture](https://img.shields.io/badge/Architecture-Decoder--only%20GPT-111827)](#architecture--data-flow)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 
